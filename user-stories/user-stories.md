@@ -1,6 +1,7 @@
 # User Story
 
 ### You Can See Use Cases at [use-case-diagram](../use-case-diagram/Use-Case.png)
+<br />
 
 * As a guest, I want to register an account so that I can book properties
 * As a host, I want to register an account so that I can list my properties
